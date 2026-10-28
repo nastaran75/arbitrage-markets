@@ -1,0 +1,111 @@
+{"id": "abs-module-cache-flags", "attempts": [1, 1, 1, 1], "mean_cost": 10.873238250000002}
+{"id": "abs-stepped-slices", "attempts": [1, 0, 1, 0], "mean_cost": 14.413408874999998}
+{"id": "actionlint-action-pinning-lint", "attempts": [1, 1, 1, 1], "mean_cost": 20.020798000000003}
+{"id": "adaptix-name-mapping-aliases", "attempts": [1, 1, 1, 1], "mean_cost": 25.768036000000002}
+{"id": "aiomonitor-task-snapshots-diff", "attempts": [1, 1, 1, 1], "mean_cost": 13.72204575}
+{"id": "anko-default-function-arguments", "attempts": [1, 1, 1, 1], "mean_cost": 19.02329275}
+{"id": "anko-typed-variable-bindings", "attempts": [1, 1, 1, 1], "mean_cost": 11.620239375}
+{"id": "arcane-drift-detection-baselines", "attempts": [1, 0, 0, 1], "mean_cost": 26.109609125000006}
+{"id": "arktype-json-schema-refs-dependencies", "attempts": [1, 0, 1, 0], "mean_cost": 28.830076875}
+{"id": "awilix-async-container-initialization", "attempts": [0, 0, 0, 0], "mean_cost": 13.527127499999999}
+{"id": "bandit-incremental-cache-control", "attempts": [1, 1, 1, 1], "mean_cost": 14.263247625}
+{"id": "bandit-interprocedural-taint-checks", "attempts": [0, 1, 0], "mean_cost": 8.730989833333334}
+{"id": "bandit-structured-nosec-directives", "attempts": [0, 0, 0, 0], "mean_cost": 18.347154624999995}
+{"id": "boa-hierarchical-evaluation-cancellation", "attempts": [1, 1, 1, 1], "mean_cost": 32.604679999999995}
+{"id": "cattrs-partial-structuring-recovery", "attempts": [1, 1, 1, 1], "mean_cost": 14.675219625}
+{"id": "clack-async-autocomplete-options", "attempts": [1, 1, 0, 0], "mean_cost": 15.580662999999998}
+{"id": "claude-code-by-agents-recursive-delegation", "attempts": [0, 0, 0, 0], "mean_cost": 8.305507375000001}
+{"id": "cliffy-config-file-parsing", "attempts": [1, 1, 1, 1], "mean_cost": 16.428436749999996}
+{"id": "csstree-shorthand-expansion-compression", "attempts": [0, 1, 0], "mean_cost": 12.620533166666666}
+{"id": "dasel-html-document-format", "attempts": [1, 1, 1], "mean_cost": 11.809102833333332}
+{"id": "dateutil-rfc5545-timezone-interop", "attempts": [1, 1, 1, 1], "mean_cost": 18.16743175}
+{"id": "drizzle-orm-window-function-builders", "attempts": [1, 1, 1, 1], "mean_cost": 18.618567374999998}
+{"id": "dynamodb-toolbox-conditional-attribute-requirements", "attempts": [1, 1, 1, 1], "mean_cost": 36.318806875}
+{"id": "dynamodb-toolbox-lazy-recursive-schemas", "attempts": [1, 1, 1, 1], "mean_cost": 76.74073262499999}
+{"id": "effect-sse-httpapi-streaming", "attempts": [0, 0, 1, 0], "mean_cost": 40.441492749999995}
+{"id": "eicrud-keyset-pagination-cursor", "attempts": [0, 0, 0], "mean_cost": 22.801066499999994}
+{"id": "etree-xml-diff-patch", "attempts": [1, 1, 1, 1], "mean_cost": 16.734446875000003}
+{"id": "expr-try-catch-errors", "attempts": [1, 1, 0, 0], "mean_cost": 25.69481725}
+{"id": "fastapi-deprecation-response-headers", "attempts": [1, 1, 1, 1], "mean_cost": 14.298257125}
+{"id": "fastapi-implicit-head-options", "attempts": [1, 0, 1], "mean_cost": 18.91576383333333}
+{"id": "fd-deterministic-multi-key-sorting", "attempts": [1, 1, 0, 1], "mean_cost": 16.744755875000003}
+{"id": "geo-shapeindex-serialization", "attempts": [1, 1, 1, 1], "mean_cost": 18.420190625}
+{"id": "go-critic-doc-link-checker", "attempts": [0, 1, 0, 0], "mean_cost": 19.238610124999997}
+{"id": "go-genai-streamed-function-args", "attempts": [1, 1, 1], "mean_cost": 15.541552166666667}
+{"id": "go-git-worktree-merge-conflicts", "attempts": [1, 1, 1, 1], "mean_cost": 27.042796999999997}
+{"id": "goreleaser-retry-publish-auditing", "attempts": [1, 1, 1, 1], "mean_cost": 21.896335624999995}
+{"id": "gql-incremental-graphql-delivery", "attempts": [0, 0, 0, 0], "mean_cost": 25.004362125000007}
+{"id": "happy-dom-abort-pending-body-reads", "attempts": [1, 1, 1, 1], "mean_cost": 33.83126125}
+{"id": "happy-dom-deterministic-intersectionobserver", "attempts": [1, 1, 1, 1], "mean_cost": 18.403178499999996}
+{"id": "helm-array-merge-strategies", "attempts": [0, 0, 0], "mean_cost": 23.864128833333336}
+{"id": "helm-unified-manifest-stream", "attempts": [1, 1, 1, 1], "mean_cost": 28.291432875000005}
+{"id": "httpx-deterministic-cookie-store", "attempts": [1, 1, 1, 1], "mean_cost": 16.106362500000003}
+{"id": "httpx-multipart-response-parsing", "attempts": [1, 1, 1, 1], "mean_cost": 12.005926375000001}
+{"id": "httpx-streaming-json-iteration", "attempts": [0, 0, 0, 0], "mean_cost": 15.142020374999996}
+{"id": "igel-persist-feature-schema", "attempts": [1, 1, 1], "mean_cost": 12.630175}
+{"id": "ink-grid-box-layout", "attempts": [1, 0, 0, 0], "mean_cost": 27.55630875}
+{"id": "ipython-session-bundle-replay", "attempts": [0, 1, 1, 1], "mean_cost": 15.165304499999998}
+{"id": "katex-multicolumn-array-spans", "attempts": [0, 1, 0, 1], "mean_cost": 19.524920875}
+{"id": "kcp-go-multiplexed-kcp-streams", "attempts": [1, 1, 0], "mean_cost": 12.05660783333333}
+{"id": "kea-atomic-signal-selectors", "attempts": [0, 0, 0, 0], "mean_cost": 23.029666}
+{"id": "kgateway-consistent-hash-policy", "attempts": [0, 1, 0, 1], "mean_cost": 32.636245}
+{"id": "kombu-single-active-consumer-priority", "attempts": [1, 1, 1, 1], "mean_cost": 21.583380125}
+{"id": "kombu-virtual-queue-dead-lettering", "attempts": [0, 0, 0, 0], "mean_cost": 31.694906375000002}
+{"id": "koota-composite-trait-aspects", "attempts": [0, 0, 0], "mean_cost": 32.8768685}
+{"id": "koota-deferred-mutation-buffer", "attempts": [0, 0, 0], "mean_cost": 26.77458916666667}
+{"id": "koota-entity-snapshot-rollback", "attempts": [1, 1, 1, 1], "mean_cost": 15.21529025}
+{"id": "koota-pair-relation-tracking", "attempts": [1, 1, 1, 1], "mean_cost": 37.12476275}
+{"id": "koota-query-predicates", "attempts": [1, 1, 1, 1], "mean_cost": 20.780756}
+{"id": "kysely-window-grouping-helpers", "attempts": [1, 1, 1, 1], "mean_cost": 23.327209}
+{"id": "langchain-request-coalescing", "attempts": [1, 0, 0, 1], "mean_cost": 19.85998625}
+{"id": "mashumaro-flattened-dataclass-fields", "attempts": [0, 1, 1, 0], "mean_cost": 20.073509750000003}
+{"id": "meriyah-explicit-resource-declarations", "attempts": [0, 0, 1, 0], "mean_cost": 29.831157124999997}
+{"id": "mnamer-daemon-watch-lifecycle", "attempts": [1, 1, 0, 1], "mean_cost": 12.01699825}
+{"id": "mobly-grouped-test-barriers", "attempts": [1, 1, 1, 1], "mean_cost": 16.6019445}
+{"id": "narwhals-rolling-window-suite", "attempts": [1, 1, 1, 1], "mean_cost": 40.290588375000006}
+{"id": "numba-stencil-boundary-modes", "attempts": [1, 1, 1], "mean_cost": 22.65265116666666}
+{"id": "obsidian-linter-auto-table-of-contents", "attempts": [0, 0, 0, 0], "mean_cost": 13.404391750000002}
+{"id": "obsidian-linter-link-format-conversion", "attempts": [0, 0, 0, 0], "mean_cost": 13.18473125}
+{"id": "obsidian-linter-scoped-ignore-markers", "attempts": [1, 1, 1, 1], "mean_cost": 19.551793875}
+{"id": "onedump-dump-encryption-pipeline", "attempts": [0, 0, 0, 0], "mean_cost": 9.66594325}
+{"id": "opa-rego-rule-profiling", "attempts": [1, 1, 1, 1], "mean_cost": 12.429777499999997}
+{"id": "opa-template-string-reconstruction", "attempts": [1, 1, 1, 1], "mean_cost": 44.9579815}
+{"id": "optique-conditional-option-dependencies", "attempts": [0, 0, 1, 1], "mean_cost": 30.550061500000005}
+{"id": "oxvg-structural-selector-preservation", "attempts": [1, 0, 1, 1], "mean_cost": 35.96221725}
+{"id": "participle-grammar-conflict-analysis", "attempts": [1, 0, 1, 0], "mean_cost": 11.123504}
+{"id": "pebble-durability-wait-apis", "attempts": [1, 1, 1, 1], "mean_cost": 23.569886749999995}
+{"id": "pest-character-class-coalescing", "attempts": [1, 0, 1, 1], "mean_cost": 23.548696625000005}
+{"id": "prometheus-transactional-reload-status", "attempts": [1, 0, 0, 0], "mean_cost": 22.307893375}
+{"id": "prometheus-typed-label-sorting", "attempts": [0, 0, 1, 1], "mean_cost": 17.498337375000002}
+{"id": "psd-tools-blend-range-api", "attempts": [1, 1, 1, 1], "mean_cost": 14.738974874999997}
+{"id": "pwntools-tube-multiplexing", "attempts": [0, 0, 0, 0], "mean_cost": 19.23457225}
+{"id": "python-statemachine-state-data-scoping", "attempts": [1, 1, 1, 1], "mean_cost": 32.130224999999996}
+{"id": "query-persist-restored-query-state", "attempts": [1, 1, 0, 0], "mean_cost": 30.892932875}
+{"id": "quill-shared-toolbar-focus", "attempts": [0, 0, 0], "mean_cost": 23.0387075}
+{"id": "returns-validated-error-accumulation", "attempts": [1, 1, 1, 1], "mean_cost": 18.216379375}
+{"id": "scc-bounded-memory-spilling", "attempts": [1, 1, 1, 1], "mean_cost": 20.135833749999996}
+{"id": "scriggo-method-declarations", "attempts": [1, 1, 1], "mean_cost": 84.52412550000001}
+{"id": "skrub-duration-encoding", "attempts": [1, 1, 1, 1], "mean_cost": 25.040854624999998}
+{"id": "sql-formatter-bigquery-pipe-formatting", "attempts": [1, 1, 1, 1], "mean_cost": 14.314997124999998}
+{"id": "sqlfmt-create-table-ddl-formatting", "attempts": [1, 0, 0, 0], "mean_cost": 26.283699874999993}
+{"id": "sqlite-utils-safe-import-checkpoints", "attempts": [1, 1, 1, 1], "mean_cost": 17.923222125000002}
+{"id": "task-task-graph-export", "attempts": [1, 1, 1, 1], "mean_cost": 15.187518874999999}
+{"id": "tengo-callable-instance-isolation", "attempts": [1, 1, 1, 1], "mean_cost": 17.062018625}
+{"id": "tengo-destructuring-bindings", "attempts": [0, 1, 1, 1], "mean_cost": 19.312368499999998}
+{"id": "termenv-preserve-ansi-resets", "attempts": [0, 0, 1, 0], "mean_cost": 9.633248000000002}
+{"id": "testem-bail-on-test-failure", "attempts": [1, 1, 1, 1], "mean_cost": 25.349875875}
+{"id": "testem-per-launcher-reports", "attempts": [1, 1, 1, 1], "mean_cost": 16.077201624999997}
+{"id": "textual-kitty-key-phases", "attempts": [1, 1, 1, 0], "mean_cost": 18.325597624999997}
+{"id": "textual-richlog-follow-state", "attempts": [1, 1, 1, 1], "mean_cost": 20.515935125}
+{"id": "tomlkit-toml-table-converters", "attempts": [1, 1, 1, 1], "mean_cost": 23.51445125}
+{"id": "true-myth-iterable-collection-combinators", "attempts": [1, 1, 1, 1], "mean_cost": 16.720095125}
+{"id": "ts-pattern-match-each", "attempts": [1, 1, 1, 1], "mean_cost": 8.533351}
+{"id": "updo-policy-alerting", "attempts": [0, 0, 0, 0], "mean_cost": 19.158199}
+{"id": "valibot-recursive-schema-composition", "attempts": [1, 1, 1, 1], "mean_cost": 32.54229324999999}
+{"id": "vitest-duration-sharding", "attempts": [1, 1, 1, 1], "mean_cost": 28.074739499999993}
+{"id": "vulture-persistent-analysis-cache", "attempts": [0, 0, 0], "mean_cost": 11.509257333333336}
+{"id": "wasmi-trap-coredumps", "attempts": [1, 1, 1, 1], "mean_cost": 36.874414125}
+{"id": "wazero-multi-module-snapshots", "attempts": [1, 1, 1, 1], "mean_cost": 9.320821125}
+{"id": "yaegi-go-embed-directives", "attempts": [1, 0, 0, 0], "mean_cost": 27.827502875}
+{"id": "yjs-map-conflict-detection", "attempts": [1, 1, 1, 1], "mean_cost": 20.724274124999997}
+{"id": "ytt-jsonpath-query-api", "attempts": [1, 1, 1, 1], "mean_cost": 9.426615875}

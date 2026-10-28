@@ -1,0 +1,88 @@
+{"id": "adaptive-rejection-sampler", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.81954435}
+{"id": "bn-fit-modify", "attempts": [1, 1, 1, 1, 0], "mean_cost": 0.3326029}
+{"id": "break-filter-js-from-html", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.5693525}
+{"id": "build-cython-ext", "attempts": [1, 0, 1, 1, 0], "mean_cost": 0.5498556}
+{"id": "build-pmars", "attempts": [1, 0, 0, 1, 1], "mean_cost": 0.1939247}
+{"id": "build-pov-ray", "attempts": [0, 1, 1, 1, 1], "mean_cost": 0.8773036}
+{"id": "caffe-cifar-10", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.24045955000000002}
+{"id": "cancel-async-tasks", "attempts": [0, 1, 1, 0, 0], "mean_cost": 0.20108900000000002}
+{"id": "chess-best-move", "attempts": [1, 1, 1, 1, 0], "mean_cost": 0.6886299}
+{"id": "circuit-fibsqrt", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.8570351500000001}
+{"id": "cobol-modernization", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.43373285}
+{"id": "code-from-image", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.2014326}
+{"id": "compile-compcert", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.6193720500000001}
+{"id": "configure-git-webserver", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.19143825}
+{"id": "constraints-scheduling", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.21442280000000002}
+{"id": "count-dataset-tokens", "attempts": [1, 1, 0, 0, 1], "mean_cost": 0.19386575}
+{"id": "crack-7z-hash", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.2093981}
+{"id": "custom-memory-heap-crash", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.3300167}
+{"id": "db-wal-recovery", "attempts": [0, 0, 0, 0, 0], "mean_cost": 1.1285273}
+{"id": "distribution-search", "attempts": [1, 1, 0, 1, 1], "mean_cost": 1.0160183000000003}
+{"id": "dna-assembly", "attempts": [1, 0, 0, 1, 0], "mean_cost": 0.99453495}
+{"id": "dna-insert", "attempts": [0, 1, 0, 1, 0], "mean_cost": 0.72586035}
+{"id": "extract-elf", "attempts": [1, 0, 1, 1, 1], "mean_cost": 0.15578930000000002}
+{"id": "extract-moves-from-video", "attempts": [0, 0, 0, 0, 0], "mean_cost": 1.6339769499999999}
+{"id": "feal-differential-cryptanalysis", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.47787415000000005}
+{"id": "feal-linear-cryptanalysis", "attempts": [0, 0, 1, 0, 0], "mean_cost": 0.08496575000000002}
+{"id": "filter-js-from-html", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.5922429499999999}
+{"id": "financial-document-processor", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.85312615}
+{"id": "fix-code-vulnerability", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.25321315}
+{"id": "fix-git", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.11049925000000001}
+{"id": "fix-ocaml-gc", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.66412965}
+{"id": "gcode-to-text", "attempts": [1, 0, 0, 0, 0], "mean_cost": 1.424903}
+{"id": "git-leak-recovery", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.10310965}
+{"id": "git-multibranch", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.1707004}
+{"id": "gpt2-codegolf", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.52806255}
+{"id": "headless-terminal", "attempts": [0, 1, 0, 1, 1], "mean_cost": 0.1857624}
+{"id": "hf-model-inference", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.14579575}
+{"id": "kv-store-grpc", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.11373755}
+{"id": "large-scale-text-editing", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.19064505}
+{"id": "largest-eigenval", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.8885082499999999}
+{"id": "llm-inference-batching-scheduler", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.85320235}
+{"id": "log-summary-date-ranges", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.09913455000000002}
+{"id": "mailman", "attempts": [1, 1, 0, 1, 1], "mean_cost": 0.44124405}
+{"id": "make-doom-for-mips", "attempts": [0, 0, 0, 0, 0], "mean_cost": 1.8759643500000003}
+{"id": "make-mips-interpreter", "attempts": [1, 0, 1, 0, 0], "mean_cost": 1.7247251000000003}
+{"id": "mcmc-sampling-stan", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.36113465000000006}
+{"id": "merge-diff-arc-agi-task", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.36603275}
+{"id": "model-extraction-relu-logits", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.4598418}
+{"id": "modernize-scientific-stack", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.10343055000000001}
+{"id": "mteb-leaderboard", "attempts": [0, 0, 0, 0, 0], "mean_cost": 3.3653073499999997}
+{"id": "mteb-retrieve", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.09206645000000001}
+{"id": "multi-source-data-merger", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.17813730000000003}
+{"id": "nginx-request-logging", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.1522591}
+{"id": "openssl-selfsigned-cert", "attempts": [1, 1, 1, 1], "mean_cost": 0.10295235}
+{"id": "overfull-hbox", "attempts": [1], "mean_cost": 0.61706125}
+{"id": "password-recovery", "attempts": [1], "mean_cost": 0.39171265000000005}
+{"id": "path-tracing", "attempts": [0], "mean_cost": 0.45524665}
+{"id": "path-tracing-reverse", "attempts": [0], "mean_cost": 2.0142375500000003}
+{"id": "polyglot-c-py", "attempts": [0], "mean_cost": 0.15725935000000002}
+{"id": "polyglot-rust-c", "attempts": [0], "mean_cost": 0.19621365000000002}
+{"id": "portfolio-optimization", "attempts": [1, 1], "mean_cost": 0.1265958}
+{"id": "protein-assembly", "attempts": [1], "mean_cost": 1.203172}
+{"id": "prove-plus-comm", "attempts": [1], "mean_cost": 0.055302000000000004}
+{"id": "pypi-server", "attempts": [1], "mean_cost": 0.14233020000000002}
+{"id": "pytorch-model-cli", "attempts": [1], "mean_cost": 0.29110465}
+{"id": "pytorch-model-recovery", "attempts": [1, 1], "mean_cost": 0.36044745000000006}
+{"id": "qemu-alpine-ssh", "attempts": [1], "mean_cost": 0.6255072500000001}
+{"id": "qemu-startup", "attempts": [1], "mean_cost": 0.46164425000000003}
+{"id": "query-optimize", "attempts": [0], "mean_cost": 0.29990815}
+{"id": "raman-fitting", "attempts": [0, 0, 0, 0], "mean_cost": 1.08141365}
+{"id": "regex-chess", "attempts": [1, 1, 1, 0, 1], "mean_cost": 4.01587385}
+{"id": "regex-log", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.273114}
+{"id": "reshard-c4-data", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.61922435}
+{"id": "rstan-to-pystan", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.7595329999999999}
+{"id": "sam-cell-seg", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.67139}
+{"id": "sanitize-git-repo", "attempts": [1, 0, 0, 0, 0], "mean_cost": 0.3628824}
+{"id": "schemelike-metacircular-eval", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.8560250500000001}
+{"id": "sparql-university", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.38445485}
+{"id": "sqlite-db-truncate", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.2011284}
+{"id": "sqlite-with-gcov", "attempts": [1, 1, 0, 1, 1], "mean_cost": 0.19676765000000002}
+{"id": "torch-pipeline-parallelism", "attempts": [1, 1, 1, 0, 0], "mean_cost": 0.73926105}
+{"id": "torch-tensor-parallelism", "attempts": [0, 0, 0, 0, 0], "mean_cost": 0.33783595}
+{"id": "train-fasttext", "attempts": [0, 0, 0, 0, 0], "mean_cost": 1.3796276000000003}
+{"id": "tune-mjcf", "attempts": [1, 0, 0, 0, 0], "mean_cost": 0.84240855}
+{"id": "video-processing", "attempts": [0, 0, 0, 1, 0], "mean_cost": 0.7380508499999999}
+{"id": "vulnerable-secret", "attempts": [1, 1, 1, 1, 1], "mean_cost": 0.1586085}
+{"id": "winning-avg-corewars", "attempts": [1, 0, 0, 0, 0], "mean_cost": 4.0210848}
+{"id": "write-compressor", "attempts": [1, 1, 1, 1, 0], "mean_cost": 0.6038708500000001}
