@@ -1,7 +1,5 @@
 # Circumventing the Computational Hardness of Computational Arbitrage
 
-Code to reproduce the figures of the paper [Circumventing the Computational Hardness of Computational Arbitrage].
-
 ## Setup
 
 Needs Python 3.10 or later. From the release root:
